@@ -1,4 +1,4 @@
-# Project 3: Computation Graph Optimization Pass (Operator Fusion + Constant Folding)
+# Computation Graph Optimization Pass (Operator Fusion + Constant Folding)
 
 ## Goal
 Implement real compiler-style optimization passes (operator fusion, constant folding) on a PyTorch model's computation graph using `torch.fx`, and measure actual execution time improvement. Targets Nvidia/Qualcomm JD language around "ML compilers," "graph optimization," and "kernel code generators."
