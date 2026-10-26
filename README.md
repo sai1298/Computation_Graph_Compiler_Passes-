@@ -84,7 +84,7 @@ Constant folding has minimal impact on runtime for this small CNN because the fo
 - CPU: **Apple M3, 8-core CPU**
 - RAM: **16 GB**
 - OS: **macOS**
-- Python: **3.11**
+- Python: **3.10**
 - PyTorch: **2.7.x**
 - Device: **CPU**
 
