@@ -81,7 +81,7 @@ Constant folding has minimal impact on runtime for this small CNN because the fo
 
 ### Hardware
 
-- CPU: **Apple M2, 8-core CPU**
+- CPU: **Apple M3, 8-core CPU**
 - RAM: **16 GB**
 - OS: **macOS**
 - Python: **3.11**
